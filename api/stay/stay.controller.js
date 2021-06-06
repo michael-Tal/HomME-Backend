@@ -4,8 +4,15 @@ const socketService = require('../../services/socket.service')
 const stayService = require('./stay.service')
 
 async function getStays(req, res) {
+    const filterBy = {}
+    const {searchTxt, type, price,sortBy} = req.query
     try {
-        const stays = await stayService.query(req.query)
+        filterBy.searchTxt = searchTxt || ''
+        filterBy.type = type
+        filterBy.price = price
+        filterBy.sortBy = sortBy
+
+        const stays = await stayService.query(filterBy)
         res.send(stays)
     } catch (err) {
         logger.error('Cannot get stays', err)

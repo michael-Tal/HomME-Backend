@@ -62,6 +62,7 @@
 6/2/2021, 1:42:29 PM - INFO - Server is running on port: 3030 
 6/2/2021, 1:55:14 PM - INFO - Server is running on port: 3030 
 6/2/2021, 2:03:07 PM - INFO - Server is running on port: 3030 
+<<<<<<< HEAD
 05/06/2021, 22:40:45 - INFO - Server is running on port: 3030 
 06/06/2021, 11:23:56 - INFO - Server is running on port: 3030 
 06/06/2021, 11:30:14 - DEBUG - auth.service - login with username: assaf1 (sid: dTzVNyi7Ztbc7-AqnOCzcSggE0WRsTL9)
@@ -78,3 +79,76 @@
 06/06/2021, 11:48:07 - INFO - Server is running on port: 3030 
 06/06/2021, 11:48:09 - INFO - Server is running on port: 3030 
 06/06/2021, 11:48:12 - INFO - Server is running on port: 3030 
+=======
+2021-06-05, 6:29:54 p.m. - INFO - Server is running on port: 3030 
+2021-06-05, 9:58:25 p.m. - INFO - Server is running on port: 3030 
+2021-06-05, 10:45:24 p.m. - ERROR - cannot insert stay | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (sid: 9B84Dq2MDteGEbeJd227Uaua4Few_HYc)
+2021-06-06, 1:51:22 a.m. - INFO - Server is running on port: 3030 
+2021-06-06, 1:54:27 a.m. - INFO - Server is running on port: 3030 
+2021-06-06, 1:54:39 a.m. - ERROR - Cannot get stays | ReferenceError: stayss is not defined (sid: o5g4AbqOEo7f2LGiJQk7x250x9M8ivu7)
+2021-06-06, 1:54:41 a.m. - ERROR - Cannot get stays | ReferenceError: stayss is not defined (sid: o5g4AbqOEo7f2LGiJQk7x250x9M8ivu7)
+2021-06-06, 1:54:43 a.m. - ERROR - Cannot get stays | ReferenceError: stayss is not defined (sid: o5g4AbqOEo7f2LGiJQk7x250x9M8ivu7)
+2021-06-06, 1:54:43 a.m. - ERROR - Cannot get stays | ReferenceError: stayss is not defined (sid: o5g4AbqOEo7f2LGiJQk7x250x9M8ivu7)
+2021-06-06, 1:54:44 a.m. - ERROR - Cannot get stays | ReferenceError: stayss is not defined (sid: o5g4AbqOEo7f2LGiJQk7x250x9M8ivu7)
+2021-06-06, 1:54:44 a.m. - ERROR - Cannot get stays | ReferenceError: stayss is not defined (sid: o5g4AbqOEo7f2LGiJQk7x250x9M8ivu7)
+2021-06-06, 1:54:44 a.m. - ERROR - Cannot get stays | ReferenceError: stayss is not defined (sid: o5g4AbqOEo7f2LGiJQk7x250x9M8ivu7)
+2021-06-06, 1:54:44 a.m. - ERROR - Cannot get stays | ReferenceError: stayss is not defined (sid: o5g4AbqOEo7f2LGiJQk7x250x9M8ivu7)
+2021-06-06, 1:54:45 a.m. - ERROR - Cannot get stays | ReferenceError: stayss is not defined (sid: o5g4AbqOEo7f2LGiJQk7x250x9M8ivu7)
+2021-06-06, 1:54:48 a.m. - ERROR - Cannot get stays | ReferenceError: stayss is not defined (sid: o5g4AbqOEo7f2LGiJQk7x250x9M8ivu7)
+2021-06-06, 1:55:02 a.m. - ERROR - Cannot get stays | ReferenceError: stayss is not defined (sid: o5g4AbqOEo7f2LGiJQk7x250x9M8ivu7)
+2021-06-06, 1:55:04 a.m. - ERROR - Cannot get stays | ReferenceError: stayss is not defined (sid: o5g4AbqOEo7f2LGiJQk7x250x9M8ivu7)
+2021-06-06, 1:55:04 a.m. - ERROR - Cannot get stays | ReferenceError: stayss is not defined (sid: o5g4AbqOEo7f2LGiJQk7x250x9M8ivu7)
+2021-06-06, 1:55:04 a.m. - ERROR - Cannot get stays | ReferenceError: stayss is not defined (sid: o5g4AbqOEo7f2LGiJQk7x250x9M8ivu7)
+2021-06-06, 1:55:04 a.m. - ERROR - Cannot get stays | ReferenceError: stayss is not defined (sid: o5g4AbqOEo7f2LGiJQk7x250x9M8ivu7)
+2021-06-06, 1:56:30 a.m. - INFO - Server is running on port: 3030 
+2021-06-06, 2:14:28 a.m. - INFO - Server is running on port: 3030 
+2021-06-06, 2:15:08 a.m. - INFO - Server is running on port: 3030 
+2021-06-06, 2:16:22 a.m. - INFO - Server is running on port: 3030 
+2021-06-06, 10:33:52 a.m. - INFO - Server is running on port: 3030 
+2021-06-06, 10:34:47 a.m. - ERROR - Cannot get stays | TypeError: Cannot set property 'address' of undefined (sid: sqLuqQtncZBoe-y10r_pp0HjONO2gxxq)
+2021-06-06, 10:34:47 a.m. - ERROR - Cannot get stays | TypeError: Cannot set property 'address' of undefined (sid: sqLuqQtncZBoe-y10r_pp0HjONO2gxxq)
+2021-06-06, 10:34:48 a.m. - ERROR - Cannot get stays | TypeError: Cannot set property 'address' of undefined (sid: sqLuqQtncZBoe-y10r_pp0HjONO2gxxq)
+2021-06-06, 10:34:49 a.m. - ERROR - Cannot get stays | TypeError: Cannot set property 'address' of undefined (sid: sqLuqQtncZBoe-y10r_pp0HjONO2gxxq)
+2021-06-06, 10:34:50 a.m. - ERROR - Cannot get stays | TypeError: Cannot set property 'address' of undefined (sid: sqLuqQtncZBoe-y10r_pp0HjONO2gxxq)
+2021-06-06, 10:34:50 a.m. - ERROR - Cannot get stays | TypeError: Cannot set property 'address' of undefined (sid: sqLuqQtncZBoe-y10r_pp0HjONO2gxxq)
+2021-06-06, 10:34:50 a.m. - ERROR - Cannot get stays | TypeError: Cannot set property 'address' of undefined (sid: sqLuqQtncZBoe-y10r_pp0HjONO2gxxq)
+2021-06-06, 10:34:52 a.m. - ERROR - Cannot get stays | TypeError: Cannot set property 'address' of undefined (sid: sqLuqQtncZBoe-y10r_pp0HjONO2gxxq)
+2021-06-06, 10:34:52 a.m. - ERROR - Cannot get stays | TypeError: Cannot set property 'address' of undefined (sid: sqLuqQtncZBoe-y10r_pp0HjONO2gxxq)
+2021-06-06, 10:34:52 a.m. - ERROR - Cannot get stays | TypeError: Cannot set property 'address' of undefined (sid: sqLuqQtncZBoe-y10r_pp0HjONO2gxxq)
+2021-06-06, 10:35:16 a.m. - INFO - Server is running on port: 3030 
+2021-06-06, 10:36:29 a.m. - INFO - Server is running on port: 3030 
+2021-06-06, 10:36:56 a.m. - INFO - Server is running on port: 3030 
+2021-06-06, 10:44:48 a.m. - INFO - Server is running on port: 3030 
+2021-06-06, 10:45:35 a.m. - INFO - Server is running on port: 3030 
+2021-06-06, 10:45:39 a.m. - ERROR - Cannot get stays | ReferenceError: address is not defined (sid: lNgMgc2ZG2jJqXhqiLKJTWWpjsxNDRMz)
+2021-06-06, 10:45:51 a.m. - INFO - Server is running on port: 3030 
+2021-06-06, 10:45:55 a.m. - ERROR - Cannot get stays | TypeError: Cannot set property 'address' of undefined (sid: g0s3-bioHBe_As6seWupEILlUhVAT4kb)
+2021-06-06, 10:47:41 a.m. - ERROR - Cannot get stays | TypeError: Cannot set property 'address' of undefined (sid: i4oxAEdY-AcL5ogfPwn9S8k_tl1Yt-hh)
+2021-06-06, 10:47:41 a.m. - ERROR - Cannot get stays | TypeError: Cannot set property 'address' of undefined (sid: i4oxAEdY-AcL5ogfPwn9S8k_tl1Yt-hh)
+2021-06-06, 10:47:44 a.m. - ERROR - Cannot get stays | TypeError: Cannot set property 'address' of undefined (sid: i4oxAEdY-AcL5ogfPwn9S8k_tl1Yt-hh)
+2021-06-06, 10:47:44 a.m. - ERROR - Cannot get stays | TypeError: Cannot set property 'address' of undefined (sid: i4oxAEdY-AcL5ogfPwn9S8k_tl1Yt-hh)
+2021-06-06, 10:47:51 a.m. - INFO - Server is running on port: 3030 
+2021-06-06, 10:48:12 a.m. - INFO - Server is running on port: 3030 
+2021-06-06, 11:06:46 a.m. - ERROR - Cannot get stays | TypeError: Cannot read property 'map' of undefined (sid: iwULORSUwP1nZ3qv8iwxn1T3nkkf2ndg)
+2021-06-06, 11:08:35 a.m. - ERROR - Cannot get stays | TypeError: Cannot read property 'map' of undefined (sid: iwULORSUwP1nZ3qv8iwxn1T3nkkf2ndg)
+2021-06-06, 11:08:36 a.m. - ERROR - Cannot get stays | TypeError: Cannot read property 'map' of undefined (sid: iwULORSUwP1nZ3qv8iwxn1T3nkkf2ndg)
+2021-06-06, 11:08:42 a.m. - ERROR - Cannot get stays | TypeError: Cannot read property 'map' of undefined (sid: iwULORSUwP1nZ3qv8iwxn1T3nkkf2ndg)
+2021-06-06, 11:10:55 a.m. - INFO - Server is running on port: 3030 
+2021-06-06, 11:10:57 a.m. - INFO - Server is running on port: 3030 
+2021-06-06, 11:12:37 a.m. - ERROR - Cannot get stays | TypeError: Cannot read property 'map' of undefined (sid: QC4kC3FDqdw48h_ng-Dz9ixmlGH66KnR)
+2021-06-06, 11:12:37 a.m. - ERROR - Cannot get stays | TypeError: Cannot read property 'map' of undefined (sid: QC4kC3FDqdw48h_ng-Dz9ixmlGH66KnR)
+2021-06-06, 11:12:45 a.m. - ERROR - Cannot get stays | TypeError: Cannot read property 'map' of undefined (sid: QC4kC3FDqdw48h_ng-Dz9ixmlGH66KnR)
+2021-06-06, 11:13:20 a.m. - INFO - Server is running on port: 3030 
+2021-06-06, 11:13:31 a.m. - INFO - Server is running on port: 3030 
+2021-06-06, 11:14:07 a.m. - ERROR - Cannot get stays | TypeError: Cannot read property 'map' of undefined (sid: 5qmq1HgEhTxTElOmAMpEWjwqyjXJS0Gj)
+2021-06-06, 11:24:06 a.m. - INFO - Server is running on port: 3030 
+2021-06-06, 11:27:38 a.m. - INFO - Server is running on port: 3030 
+2021-06-06, 11:47:51 a.m. - INFO - Server is running on port: 3030 
+2021-06-06, 11:51:36 a.m. - DEBUG - auth.service - login with username: aylam1 (sid: cVkK_RiwVUxQfWgzaZfhQhgwZT68CMvt)
+2021-06-06, 11:51:59 a.m. - INFO - Req from: Aylam Bar-on (sid: cVkK_RiwVUxQfWgzaZfhQhgwZT68CMvt)
+2021-06-06, 11:52:01 a.m. - INFO - Req from: Aylam Bar-on (sid: cVkK_RiwVUxQfWgzaZfhQhgwZT68CMvt)
+2021-06-06, 11:52:28 a.m. - INFO - Req from: Aylam Bar-on (sid: cVkK_RiwVUxQfWgzaZfhQhgwZT68CMvt)
+2021-06-06, 11:52:30 a.m. - INFO - Req from: Aylam Bar-on (sid: cVkK_RiwVUxQfWgzaZfhQhgwZT68CMvt)
+2021-06-06, 11:52:31 a.m. - INFO - Req from: Aylam Bar-on (sid: cVkK_RiwVUxQfWgzaZfhQhgwZT68CMvt)
+2021-06-06, 11:52:32 a.m. - INFO - Req from: Aylam Bar-on (sid: cVkK_RiwVUxQfWgzaZfhQhgwZT68CMvt)
+>>>>>>> 583df269b0066d2aca97f4112d84c6c062d089ac
