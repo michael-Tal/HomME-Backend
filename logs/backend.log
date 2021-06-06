@@ -62,6 +62,24 @@
 6/2/2021, 1:42:29 PM - INFO - Server is running on port: 3030 
 6/2/2021, 1:55:14 PM - INFO - Server is running on port: 3030 
 6/2/2021, 2:03:07 PM - INFO - Server is running on port: 3030 
+<<<<<<< HEAD
+05/06/2021, 22:40:45 - INFO - Server is running on port: 3030 
+06/06/2021, 11:23:56 - INFO - Server is running on port: 3030 
+06/06/2021, 11:30:14 - DEBUG - auth.service - login with username: assaf1 (sid: dTzVNyi7Ztbc7-AqnOCzcSggE0WRsTL9)
+06/06/2021, 11:30:24 - INFO - Req from: Assaf Fendell (sid: dTzVNyi7Ztbc7-AqnOCzcSggE0WRsTL9)
+06/06/2021, 11:32:04 - INFO - Req from: Assaf Fendell (sid: dTzVNyi7Ztbc7-AqnOCzcSggE0WRsTL9)
+06/06/2021, 11:37:47 - INFO - Req from: Assaf Fendell (sid: dTzVNyi7Ztbc7-AqnOCzcSggE0WRsTL9)
+06/06/2021, 11:42:44 - INFO - Req from: Assaf Fendell (sid: dTzVNyi7Ztbc7-AqnOCzcSggE0WRsTL9)
+06/06/2021, 11:43:23 - INFO - Req from: Assaf Fendell (sid: dTzVNyi7Ztbc7-AqnOCzcSggE0WRsTL9)
+06/06/2021, 11:43:27 - INFO - Req from: Assaf Fendell (sid: dTzVNyi7Ztbc7-AqnOCzcSggE0WRsTL9)
+06/06/2021, 11:43:29 - INFO - Req from: Assaf Fendell (sid: dTzVNyi7Ztbc7-AqnOCzcSggE0WRsTL9)
+06/06/2021, 11:44:01 - INFO - Req from: Assaf Fendell (sid: dTzVNyi7Ztbc7-AqnOCzcSggE0WRsTL9)
+06/06/2021, 11:44:18 - INFO - Req from: Assaf Fendell (sid: dTzVNyi7Ztbc7-AqnOCzcSggE0WRsTL9)
+06/06/2021, 11:44:22 - INFO - Req from: Assaf Fendell (sid: dTzVNyi7Ztbc7-AqnOCzcSggE0WRsTL9)
+06/06/2021, 11:48:07 - INFO - Server is running on port: 3030 
+06/06/2021, 11:48:09 - INFO - Server is running on port: 3030 
+06/06/2021, 11:48:12 - INFO - Server is running on port: 3030 
+=======
 2021-06-05, 6:29:54 p.m. - INFO - Server is running on port: 3030 
 2021-06-05, 9:58:25 p.m. - INFO - Server is running on port: 3030 
 2021-06-05, 10:45:24 p.m. - ERROR - cannot insert stay | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters (sid: 9B84Dq2MDteGEbeJd227Uaua4Few_HYc)
@@ -133,6 +151,7 @@
 2021-06-06, 11:52:30 a.m. - INFO - Req from: Aylam Bar-on (sid: cVkK_RiwVUxQfWgzaZfhQhgwZT68CMvt)
 2021-06-06, 11:52:31 a.m. - INFO - Req from: Aylam Bar-on (sid: cVkK_RiwVUxQfWgzaZfhQhgwZT68CMvt)
 2021-06-06, 11:52:32 a.m. - INFO - Req from: Aylam Bar-on (sid: cVkK_RiwVUxQfWgzaZfhQhgwZT68CMvt)
+<<<<<<< HEAD
 2021-06-06, 11:54:43 a.m. - INFO - Server is running on port: 3030 
 2021-06-06, 11:55:41 a.m. - DEBUG - auth.service - login with username: aylam1 (sid: L2pyx8InrncdGRm88m9jWHP7zL29cYjg)
 2021-06-06, 11:59:44 a.m. - DEBUG - auth.service - login with username: aylam1 (sid: L2pyx8InrncdGRm88m9jWHP7zL29cYjg)
@@ -560,3 +579,80 @@
 2021-06-07, 12:52:40 a.m. - INFO - Server is running on port: 3030 
 2021-06-07, 2:21:08 a.m. - INFO - Server is running on port: 3030 
 2021-06-07, 2:21:23 a.m. - INFO - Server is running on port: 3030 
+=======
+>>>>>>> 583df269b0066d2aca97f4112d84c6c062d089ac
+06/06/2021, 12:39:32 - INFO - Server is running on port: 3030 
+06/06/2021, 14:01:07 - DEBUG - auth.service - login with username: aylam1 (sid: S7DhD3xHt4yAKz2YLIHparhFjxHE-NwU)
+06/06/2021, 14:01:18 - INFO - Req from: Aylam Bar-on (sid: S7DhD3xHt4yAKz2YLIHparhFjxHE-NwU)
+06/06/2021, 14:02:24 - INFO - Req from: Aylam Bar-on (sid: S7DhD3xHt4yAKz2YLIHparhFjxHE-NwU)
+06/06/2021, 17:14:09 - INFO - Server is running on port: 3030 
+06/06/2021, 17:14:32 - INFO - Server is running on port: 3030 
+06/06/2021, 17:14:43 - INFO - Server is running on port: 3030 
+06/06/2021, 17:53:59 - INFO - Server is running on port: 3030 
+06/06/2021, 17:58:43 - INFO - Server is running on port: 3030 
+06/06/2021, 18:09:45 - INFO - Server is running on port: 3030 
+06/06/2021, 18:10:32 - INFO - Server is running on port: 3030 
+06/06/2021, 18:19:28 - INFO - Server is running on port: 3030 
+06/06/2021, 18:19:38 - INFO - Server is running on port: 3030 
+06/06/2021, 18:21:09 - INFO - Server is running on port: 3030 
+06/06/2021, 18:46:19 - INFO - Server is running on port: 3030 
+06/06/2021, 18:51:52 - INFO - Server is running on port: 3030 
+06/06/2021, 18:54:01 - INFO - Server is running on port: 3030 
+06/06/2021, 18:54:36 - INFO - Server is running on port: 3030 
+06/06/2021, 19:30:46 - INFO - Server is running on port: 3030 
+06/06/2021, 19:35:39 - INFO - Server is running on port: 3030 
+06/06/2021, 19:37:07 - INFO - Server is running on port: 3030 
+06/06/2021, 19:40:03 - INFO - Server is running on port: 3030 
+06/06/2021, 19:42:32 - INFO - Server is running on port: 3030 
+06/06/2021, 19:42:43 - INFO - Server is running on port: 3030 
+06/06/2021, 19:43:39 - INFO - Server is running on port: 3030 
+06/06/2021, 20:51:57 - INFO - Server is running on port: 3030 
+06/06/2021, 21:10:20 - DEBUG - auth.service - login with username: assaf1 (sid: FEoRpaBKELiqT3noiXR99NyATXc5tLid)
+06/06/2021, 21:11:15 - INFO - Req from: Assaf Fendell (sid: FEoRpaBKELiqT3noiXR99NyATXc5tLid)
+06/06/2021, 21:11:56 - INFO - Req from: Assaf Fendell (sid: FEoRpaBKELiqT3noiXR99NyATXc5tLid)
+06/06/2021, 21:12:34 - INFO - Req from: Assaf Fendell (sid: FEoRpaBKELiqT3noiXR99NyATXc5tLid)
+06/06/2021, 21:16:05 - INFO - Req from: Assaf Fendell (sid: FEoRpaBKELiqT3noiXR99NyATXc5tLid)
+06/06/2021, 21:16:10 - INFO - Req from: Assaf Fendell (sid: FEoRpaBKELiqT3noiXR99NyATXc5tLid)
+06/06/2021, 21:17:19 - INFO - Req from: Assaf Fendell (sid: FEoRpaBKELiqT3noiXR99NyATXc5tLid)
+06/06/2021, 21:17:21 - INFO - Req from: Assaf Fendell (sid: FEoRpaBKELiqT3noiXR99NyATXc5tLid)
+06/06/2021, 21:17:29 - INFO - Req from: Assaf Fendell (sid: FEoRpaBKELiqT3noiXR99NyATXc5tLid)
+06/06/2021, 21:20:26 - INFO - Req from: Assaf Fendell (sid: FEoRpaBKELiqT3noiXR99NyATXc5tLid)
+06/06/2021, 21:27:25 - INFO - Req from: Assaf Fendell (sid: FEoRpaBKELiqT3noiXR99NyATXc5tLid)
+06/06/2021, 21:34:36 - INFO - Req from: Assaf Fendell (sid: FEoRpaBKELiqT3noiXR99NyATXc5tLid)
+06/06/2021, 21:36:09 - INFO - Req from: Assaf Fendell (sid: FEoRpaBKELiqT3noiXR99NyATXc5tLid)
+06/06/2021, 22:46:10 - INFO - Req from: Assaf Fendell (sid: FEoRpaBKELiqT3noiXR99NyATXc5tLid)
+06/06/2021, 23:03:20 - INFO - Req from: Assaf Fendell (sid: FEoRpaBKELiqT3noiXR99NyATXc5tLid)
+06/06/2021, 23:03:55 - INFO - Req from: Assaf Fendell (sid: FEoRpaBKELiqT3noiXR99NyATXc5tLid)
+06/06/2021, 23:05:06 - INFO - Req from: Assaf Fendell (sid: FEoRpaBKELiqT3noiXR99NyATXc5tLid)
+06/06/2021, 23:16:40 - INFO - Req from: Assaf Fendell (sid: FEoRpaBKELiqT3noiXR99NyATXc5tLid)
+06/06/2021, 23:17:14 - INFO - Req from: Assaf Fendell (sid: FEoRpaBKELiqT3noiXR99NyATXc5tLid)
+06/06/2021, 23:20:08 - INFO - Req from: Assaf Fendell (sid: FEoRpaBKELiqT3noiXR99NyATXc5tLid)
+06/06/2021, 23:20:31 - INFO - Req from: Assaf Fendell (sid: FEoRpaBKELiqT3noiXR99NyATXc5tLid)
+06/06/2021, 23:25:23 - INFO - Req from: Assaf Fendell (sid: FEoRpaBKELiqT3noiXR99NyATXc5tLid)
+06/06/2021, 23:38:36 - INFO - Req from: Assaf Fendell (sid: FEoRpaBKELiqT3noiXR99NyATXc5tLid)
+06/06/2021, 23:48:26 - INFO - Req from: Assaf Fendell (sid: FEoRpaBKELiqT3noiXR99NyATXc5tLid)
+06/06/2021, 23:48:45 - INFO - Req from: Assaf Fendell (sid: FEoRpaBKELiqT3noiXR99NyATXc5tLid)
+06/06/2021, 23:49:55 - INFO - Req from: Assaf Fendell (sid: FEoRpaBKELiqT3noiXR99NyATXc5tLid)
+06/06/2021, 23:50:30 - INFO - Req from: Assaf Fendell (sid: FEoRpaBKELiqT3noiXR99NyATXc5tLid)
+07/06/2021, 0:51:28 - INFO - Req from: Assaf Fendell (sid: FEoRpaBKELiqT3noiXR99NyATXc5tLid)
+07/06/2021, 0:54:01 - INFO - Req from: Assaf Fendell (sid: FEoRpaBKELiqT3noiXR99NyATXc5tLid)
+07/06/2021, 0:58:48 - INFO - Req from: Assaf Fendell (sid: FEoRpaBKELiqT3noiXR99NyATXc5tLid)
+07/06/2021, 0:59:11 - INFO - Req from: Assaf Fendell (sid: FEoRpaBKELiqT3noiXR99NyATXc5tLid)
+07/06/2021, 1:09:11 - INFO - Req from: Assaf Fendell (sid: FEoRpaBKELiqT3noiXR99NyATXc5tLid)
+07/06/2021, 1:15:18 - INFO - Req from: Assaf Fendell (sid: FEoRpaBKELiqT3noiXR99NyATXc5tLid)
+07/06/2021, 1:17:06 - INFO - Req from: Assaf Fendell (sid: FEoRpaBKELiqT3noiXR99NyATXc5tLid)
+07/06/2021, 1:19:00 - INFO - Req from: Assaf Fendell (sid: FEoRpaBKELiqT3noiXR99NyATXc5tLid)
+07/06/2021, 1:19:11 - INFO - Req from: Assaf Fendell (sid: FEoRpaBKELiqT3noiXR99NyATXc5tLid)
+07/06/2021, 1:20:36 - INFO - Req from: Assaf Fendell (sid: FEoRpaBKELiqT3noiXR99NyATXc5tLid)
+07/06/2021, 1:26:08 - INFO - Req from: Assaf Fendell (sid: FEoRpaBKELiqT3noiXR99NyATXc5tLid)
+07/06/2021, 1:26:21 - INFO - Req from: Assaf Fendell (sid: FEoRpaBKELiqT3noiXR99NyATXc5tLid)
+07/06/2021, 1:27:33 - INFO - Req from: Assaf Fendell (sid: FEoRpaBKELiqT3noiXR99NyATXc5tLid)
+07/06/2021, 1:27:39 - INFO - Req from: Assaf Fendell (sid: FEoRpaBKELiqT3noiXR99NyATXc5tLid)
+07/06/2021, 1:28:06 - INFO - Req from: Assaf Fendell (sid: FEoRpaBKELiqT3noiXR99NyATXc5tLid)
+07/06/2021, 1:28:16 - INFO - Req from: Assaf Fendell (sid: FEoRpaBKELiqT3noiXR99NyATXc5tLid)
+07/06/2021, 1:40:14 - INFO - Req from: Assaf Fendell (sid: FEoRpaBKELiqT3noiXR99NyATXc5tLid)
+07/06/2021, 1:41:55 - INFO - Req from: Assaf Fendell (sid: FEoRpaBKELiqT3noiXR99NyATXc5tLid)
+07/06/2021, 1:45:51 - INFO - Server is running on port: 3030 
+07/06/2021, 1:47:01 - INFO - Server is running on port: 3030 
+07/06/2021, 1:48:20 - INFO - Server is running on port: 3030 
+>>>>>>> e5b0c9b960365b2fdacd9076b221af2207007af2
